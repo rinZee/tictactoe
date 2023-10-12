@@ -16,3 +16,10 @@ I plan on using this project as a diary of my learning journey. And I will use t
  Soultion
  - Upon my research the solution for this problem was canvas element which is an html element used to draw 2D graphics via scripting
  
+ Problems broken down into small size
+ Today i mostly looked a little bit into the html canvas. I added the canvas element and made the border. Some problems I'm facing 
+ - adding 2 inner lines vertically and horizontally in the canvas for the TicTacToe game
+ - every section of the TicTacToe box should have state that can be toggled on/off
+ - add some eventlisteners to the individual boxes which when clicked should toggle the state on/off
+
+
