@@ -11,8 +11,7 @@
     min-width: 100vw;
     min-height: 100vh;
 }
-#tictactoe{
-    background-color: white;
-    width: 400px;
-    height: 400px;
-}
+
+canvas {
+    border: 1px solid white;
+  }
